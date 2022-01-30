@@ -35,3 +35,13 @@ Body {
     Color: black;
     font-weight: 400;
 }
+
+.principal{
+    margin-bottom: 48px;
+    border-top: 0.4px solid black;
+}
+
+.principal-conteúdo{
+    display: flex;
+    flex-direction: row;
+}
